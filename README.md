@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://codecov.io/gh/jaydiplinksture/github-readme-stats">
-    <img src="https://codecov.io/gh/jaydiplinksture/github-readme-stats/branch/master/graph/badge.svg" />
+  <!-- <a href="https://codecov.io/gh/thejaydip/github-readme-stats">
+    <img src="https://codecov.io/gh/thejaydip/github-readme-stats/branch/master/graph/badge.svg" />
   </a> -->
-  <a href="https://github.com/jaydiplinksture/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/jaydiplinksture/github-readme-stats?color=0088ff" />
+  <a href="https://github.com/thejaydip/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/thejaydip/github-readme-stats?color=0088ff" />
   </a>
-  <a href="https://github.com/jaydiplinksture/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jaydiplinksture/github-readme-stats?color=0088ff" />
+  <a href="https://github.com/thejaydip/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/thejaydip/github-readme-stats?color=0088ff" />
   </a>
   <br />
 </p>
@@ -20,4 +20,4 @@
 - 🌱 I’m currently learning Gutenberg, Elementor, WPBackery, React etc.
 - 👯 I’m looking to collaborate on WordPress.
 
-![Jaydip's github stats](https://github-readme-stats.vercel.app/api?username=jaydiplinksture&include_all_commits=true&show_icons=true&theme=flag-india&layout=compact)
+![Jaydip's github stats](https://github-readme-stats.vercel.app/api?username=thejaydip&include_all_commits=true&show_icons=true&theme=flag-india&layout=compact)
