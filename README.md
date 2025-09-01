@@ -16,8 +16,8 @@
   <br />
 </p>
 
-- 🔭 I’m currently working on WordPress & WooCommerce.
-- 🌱 I’m currently learning Gutenberg, Elementor, WPBackery, React etc.
-- 👯 I’m looking to collaborate on WordPress.
+- 🔭 Expert in WordPress, WooCommerce, PHP, HTML, CSS, JavaScript, React, SEO, and website speed optimization for fast, high-performance sites
+- 🌱 Highly skilled in React, Gutenberg, Elementor, WPBakery and more
+- 👯 Open to collaboration on WordPress and React development projects
 
 ![Jaydip's github stats](https://github-readme-stats.vercel.app/api?username=thejaydip&include_all_commits=true&show_icons=true&theme=flag-india&layout=compact)
