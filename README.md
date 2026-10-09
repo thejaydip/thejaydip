@@ -16,8 +16,8 @@
   <br />
 </p>
 
-- 🔭 Expert in WordPress, WooCommerce, PHP, HTML, CSS, JavaScript, React, SEO, and website speed optimization, specializing in creating fast, high-performance websites
-- 🌱 Highly skilled in Gutenberg, Elementor, WPBakery, Redux, React, and other popular WordPress page builders
-- 👯 Open to collaboration on WordPress and React development projects, with a focus on innovative solutions and seamless user experiences
+- 🔭 Focus: Senior Web Engineer specializing in fast, scalable WordPress/WooCommerce/Drupal/Shopify architecture, React, and custom API systems.
+- 🌱 Technical Mastery: Custom Plugin & Gutenberg Development • React & JavaScript (ES6+) • Core Web Vitals & Speed Optimization.
+- 👯 Let’s Connect: Available for collaborative engineering, complex WordPress setups, and modern React/headless solutions.
 
 ![Jaydip's github stats](https://github-readme-stats.vercel.app/api?username=thejaydip&include_all_commits=true&show_icons=true&theme=flag-india&layout=compact)
